@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋, I am an aspiring programmer, I like to dig into complex but interesting things, swallowing one by one the technology, improve and refactor the code.
+
+Now I'm studying:
+- web technology
+- concurrency programming
+- algorithms
 
 <!--
 **v1adhope/v1adhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
